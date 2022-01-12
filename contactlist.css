@@ -1,0 +1,17 @@
+#sticky-div {
+    position : sticky;
+     top :0px;
+   font-size: 30px;
+   color: white;
+   background-color:  #84bd39;
+ }
+ p {
+ 
+    font-size: 20px;
+    background-color: rgb(226, 218, 145);
+  }
+
+h1{
+  text-align: center;
+  background-color: #32a852;
+}
